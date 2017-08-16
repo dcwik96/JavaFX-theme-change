@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master_android.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master_android.iml" group="JavaFX-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master_desktop.iml" group="JavaFX-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master_embedded.iml" group="JavaFX-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master_ios.iml" group="JavaFX-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master_main.iml" group="JavaFX-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-master_test.iml" group="JavaFX-master" />
+    </modules>
+  </component>
+</project>
